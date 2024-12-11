@@ -94,3 +94,19 @@ h1 {
         font-size: 20px;
     }
 }
+@media (max-width: 1024px) {
+    .home {
+      
+        width: auto;
+        height:100vh;
+      
+    }
+}
+@media (max-width: 1440px) {
+    .home {
+      
+        width: auto;
+        height:100vh;
+      
+    }
+}
