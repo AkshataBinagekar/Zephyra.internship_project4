@@ -50,6 +50,7 @@ h1 {
 
 
 @media (max-width: 768px) {
+  
     .card_container {
         flex-direction: column;
         align-items: center;
@@ -72,6 +73,7 @@ h1 {
 }
 
 @media (max-width: 200px) {
+   
     .card_container {
         flex-direction: column;
         align-items: center;
@@ -93,6 +95,7 @@ h1 {
     h1 {
         font-size: 20px;
     }
+    
 }
 @media (max-width: 1024px) {
     .home {
@@ -106,7 +109,7 @@ h1 {
     .home {
       
         width: auto;
-        height:150vh;
+        height:350vh;
       
     }
 }
